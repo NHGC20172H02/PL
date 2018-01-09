@@ -1,0 +1,9 @@
+決定音SE　enter.mp3
+戻るSE　　back.mp3
+カーソル移動SE　select.mp3
+タイトルBGM　title.mp3
+ゲーム中BGM　gamebgm.mp3
+リザルトBGM　result.mp3
+
+
+
