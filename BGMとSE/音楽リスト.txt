@@ -1,9 +1,23 @@
-決定音SE　enter.mp3
-戻るSE　　back.mp3
-カーソル移動SE　select.mp3
-タイトルBGM　title.mp3
-ゲーム中BGM　gamebgm.mp3
-リザルトBGM　result.mp3
+○…現段階OK
+×…今ない　探す
+△…微妙　探す
 
+
+【タイトルやセレクトやリザルト】
+○タイトルBGM　title.mp3
+×リザルトBGM　result.mp3 
+○決定音SE　enter.mp3
+○戻るSE　　back.mp3
+○カーソル移動SE　select.mp3
+○リザルトのスコアSE　score.mp3
+×勝敗スタンプSE　stamp.mp3
+
+
+【ゲーム中】
+△ゲーム中BGM　gamebgm.mp3
+×ジャンプSE　jump.mp3
+○落下して地面に落ちた時のSE　fall.mp3
+○回避SE　spin.mp3
+△体当たりした時のSE(敵からの体当たりを受けた時も同じ)　hit.mp3
 
 
