@@ -19,5 +19,7 @@
 ○落下して地面に落ちた時のSE　fall.mp3
 ○回避SE　spin.mp3
 △体当たりした時のSE(敵からの体当たりを受けた時も同じ)　hit.mp3
-
+×ジャンプした時の風SE　wind.mp3
+×GOのSE　go.mp3
+×TimeUPのSE　time.mp3
 
