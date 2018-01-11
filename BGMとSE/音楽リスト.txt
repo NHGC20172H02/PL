@@ -15,7 +15,7 @@
 
 【ゲーム中】
 △ゲーム中BGM　gamebgm.mp3
-×ジャンプSE　jump.wav
+×ジャンプSE　jump.wav 今は無しのままで　風のSEで物足りなかったら入れる
 ○落下して地面に落ちた時のSE　fall.wav
 ○回避SE　spin.wav
 △体当たりした時のSE(敵からの体当たりを受けた時も同じ)　hit.wav
