@@ -6,20 +6,20 @@
 【タイトルやセレクトやリザルト】
 ○タイトルBGM　title.mp3
 ×リザルトBGM　result.mp3 
-○決定音SE　enter.mp3
-○戻るSE　　back.mp3
-○カーソル移動SE　select.mp3
-○リザルトのスコアSE　score.mp3
-×勝敗スタンプSE　stamp.mp3
+○決定音SE　enter.wav
+○戻るSE　　back.wav
+○カーソル移動SE　select.wav
+○リザルトのスコアSE　score.wav
+×勝敗スタンプSE　stamp.wav
 
 
 【ゲーム中】
 △ゲーム中BGM　gamebgm.mp3
-×ジャンプSE　jump.mp3
-○落下して地面に落ちた時のSE　fall.mp3
-○回避SE　spin.mp3
-△体当たりした時のSE(敵からの体当たりを受けた時も同じ)　hit.mp3
-×ジャンプした時の風SE　wind.mp3
-×GOのSE　go.mp3
-×TimeUPのSE　time.mp3
+×ジャンプSE　jump.wav
+○落下して地面に落ちた時のSE　fall.wav
+○回避SE　spin.wav
+△体当たりした時のSE(敵からの体当たりを受けた時も同じ)　hit.wav
+×ジャンプした時の風SE　wind.wav
+×GOのSE　go.wav
+×TimeUPのSE　time.wav
 
