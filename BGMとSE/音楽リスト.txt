@@ -1,7 +1,6 @@
 ○…現段階OK
-×…今ない　探す
-△…微妙　探す
-
+△…あるけどセンスないので探す
+×…ファイルがない　探す
 
 【タイトルやセレクトやリザルト】
 ○タイトルBGM　title.mp3
@@ -10,16 +9,19 @@
 ○戻るSE　　back.wav
 ○カーソル移動SE　select.wav
 ○リザルトのスコアSE　score.wav
-×勝敗スタンプSE　stamp.wav
+○勝敗スタンプSE　stamp.wav
 
 
 【ゲーム中】
 △ゲーム中BGM　gamebgm.mp3
-×ジャンプSE　jump.wav 今は無しのままで　風のSEで物足りなかったら入れる
 ○落下して地面に落ちた時のSE　fall.wav
 ○回避SE　spin.wav
 △体当たりした時のSE(敵からの体当たりを受けた時も同じ)　hit.wav
-×ジャンプした時の風SE　wind.wav
+○ジャンプした時の風SE　wind.wav
 ×GOのSE　go.wav
 ×TimeUPのSE　time.wav
+
+
+【現段階は無しで】
+ジャンプSE　jump.wav
 
