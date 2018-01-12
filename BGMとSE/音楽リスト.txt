@@ -20,6 +20,9 @@
 ○ジャンプした時の風SE　wind.wav
 ×GOのSE　go.wav
 ×TimeUPのSE　time.wav
+○歩いてる時の足音　walk.wav
+○ジャンプして着地した時のSE　landing.wav
+
 
 
 【現段階は無しで】
