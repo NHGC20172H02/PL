@@ -14,13 +14,13 @@
 
 【ゲーム中】
 △ゲーム中BGM　gamebgm.mp3
-○落下して地面に落ちた時のSE　fall.wav
+○落下して地面に落ちた時のSE　地面に落ちた瞬間再生　fall.wav
 ○回避SE　spin.wav
 △体当たりした時のSE(敵からの体当たりを受けた時も同じ)　hit.wav
 ○ジャンプした時の風SE　wind.wav
 ×GOのSE　go.wav
 ×TimeUPのSE　time.wav
-○歩いてる時の足音　walk.wav
+○歩いてる時の足音歩いてる間再生　walk.wav
 ○ジャンプして着地した時のSE　landing.wav
 
 
