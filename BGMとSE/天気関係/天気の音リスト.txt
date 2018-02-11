@@ -1,0 +1,3 @@
+Rain.mp3: 小雨発生の間再生
+Thunderstorm.mp3:　雷雨発生の間再生
+Thunder.wav:　雷が出た瞬間再生(ループはしない)
