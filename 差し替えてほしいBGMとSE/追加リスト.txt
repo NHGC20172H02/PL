@@ -1,0 +1,26 @@
+
+野澤
+GageMax　ゲージが貯まった時に鳴らすSE
+
+
+杉浦
+LockOn　敵に狙った時になるSE
+Change　Lボタンの切り替えた時になるSE
+hit02　体当たりした時のSE（AIが受けた時も）
+fall　落下したときのSE
+landing　着地
+spin　回避した時
+wind　ジャンプちゅうの風の音
+
+
+
+
+中山
+back　戻るときのSE
+enter　決定音
+select　アナログスティック倒した時に再生
+stamp　WINやLOSEが出た時にならすSE
+
+NG　木にかぶってるときになるSE
+Result　リザルト時に流すBGM
+title　タイトルだ素BGM
