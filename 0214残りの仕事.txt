@@ -45,7 +45,7 @@
 
 
 リザルト
-・TerritoryCountの文字が白いのを直す　　　　　　　　　　　　　　　　　　　　:石田
+・TerritoryCountの文字が白いのを直す　　　　　　　　　　　　　　　　　　　　:石田○
 ・リザルトで木が光るのを直す　　　　　　　　　　　　　　　　　　　　　　　　:野澤○
 【リソース】
 リザルトの時のTerritoryCountの色修正
